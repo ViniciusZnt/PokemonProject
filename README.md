@@ -1,0 +1,3 @@
+This project is a Kotlin-based command-line interface (CLI) application designed to fetch and display detailed information about Pokémon by consuming the Pokémon API. Users can input the name of a Pokémon, and the application retrieves various attributes such as height, weight, and ID, presenting them in a user-friendly format.
+
+This project leverages the models provided by the PokeKotlin wrapper, developed by sargunster, for seamless interaction with the Pokémon API. The application also includes custom serialization and deserialization logic, ensuring that the data is processed and displayed correctly according to the user's requests.
