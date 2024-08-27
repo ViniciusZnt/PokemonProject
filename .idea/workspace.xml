@@ -5,32 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="055e6b53-f8b8-43c0-8383-023d27bd6dcc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Models/Pokemon.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Models/berries.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Models/contests.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Models/encounters.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Models/evolution.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Models/games.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Models/itens.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Models/locations.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Models/machine.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Models/moves.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Models/resourse.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Models/utility.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/util/adapters.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,6 +53,15 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {}
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/ViniciusZnt/PokemonProject.git",
+    "accountId": "f487e684-00d6-4747-ac40-2d105c19d4dd"
+  }
+}]]></component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -133,11 +117,22 @@
       <workItem from="1724540825429" duration="362000" />
       <workItem from="1724541205662" duration="1649000" />
       <workItem from="1724542866640" duration="2445000" />
-      <workItem from="1724766379955" duration="10923000" />
+      <workItem from="1724766379955" duration="11553000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
